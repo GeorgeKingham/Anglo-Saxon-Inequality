@@ -5,6 +5,7 @@ This project investigates income inequality trends across nine developed economi
 
 ## Blog Post
 The full blog post can be viewed in: notebooks/Blog.ipynb
+Online version: https://nbviewer.org/github/GeorgeKingham/Anglo-Saxon-Inequality/blob/main/notebooks/Blog.ipynb
 
 ## Project Structure
 - data/raw/ — Original downloaded datasets
